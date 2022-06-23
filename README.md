@@ -58,7 +58,17 @@
 <h1></h1>
 <p dir="rtl">
 <strong><a href="https://docs.google.com/document/d/1BA8t5-qKIBhLCSQFKYVx9syLgFAapT6lXDlLHpM0jmg/edit">الجزء الثالث</a></strong></p>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>part2</title>
+</head>
+<body>
+    <img src="./image.webp" alt="my hoppy">
+    <a href="./classwork/part1.html"></a>
+    <!-- thu,23jun2022 -->
+</body>
+</html>
 
 لنستخدم القوائم في موقعنا
 
