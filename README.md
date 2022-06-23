@@ -21,7 +21,18 @@
 <p dir="rtl">
 <strong>بونص!</strong></p>
 
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>الصفحة الاول </title>
+</head>
+<body>
+    <h1> retaj alhayyan <img src="/assets/code.jpeg" alt="code-photo">
+    </h1>
+    <h2>this is my first website</h2>
+    <p> I choose code because <br> I am a computer eng. student </p>
+</body>
+</html> 
 
 
 * ضع ايقونة في عنوان الصفحة (icon)
